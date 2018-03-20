@@ -19,9 +19,9 @@ Built a rest Api in Node.js by leveraging Node.js
 
 ##
 
-Live Application Back-End API 
+Live Application Is Deployed at Heroku
 
-[![Live Demo Here](https://node-site-generator.herokuapp.com/)
+[Live Demo Here](https://node-site-generator.herokuapp.com/)
 
 ##
 
