@@ -1,0 +1,15 @@
+<h1>Documents</h1>
+<ul>
+  <% webApp.Documents.forEach((Document) => { %>
+    <li><a href="<%= Document.url %>"><%= Document.name %></a></li>
+  <% }) %>
+</ul>
+
+
+<div>
+
+  <% webApp.pictures.forEach((picture) => { %>
+    <img src="<%= picture.location %>" class = "dimension"/>
+  <% }) %>
+
+</div>
