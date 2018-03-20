@@ -59,7 +59,7 @@ site.config.js
 
 * Cd into that root folder you just cloned locally.
 
-* Open terminal in the current folder and to install all dependencies type 
+* Open terminal in the current folder and to install all dependencies by typing `` npm install ``
 
 * The generator code is inside a single file, index.js, that we can run with `` npm start ``, every time we want to       
   rebuild the site.
