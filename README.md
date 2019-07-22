@@ -1,4 +1,3 @@
-# Node-site-generator
 A node.js application can be used to generate static websites.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
